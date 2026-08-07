@@ -1,5 +1,7 @@
 # Plexamp Backend Integration - Merge Summary
 
+> **⚠️ ARCHIVED**: Plum-Snapcast is no longer maintained. It has been superseded by **[Plum-Audio](https://github.com/AnotherMike-exe/Plum-Audio)**, which replaces the Snapcast + custom-control-layer core with **sendspin** for greater spec compliance. This document is retained for historical reference only.
+
 ## Overview
 
 This branch adds full Plexamp headless support to Plum-Snapcast, enabling Plex music casting from iOS/Android apps to the multi-room audio system.

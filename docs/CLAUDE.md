@@ -1,5 +1,7 @@
 # CLAUDE.md - Plum-Snapcast
 
+> **⚠️ ARCHIVED**: This project is no longer maintained. It has been superseded by **[Plum-Audio](https://github.com/AnotherMike-exe/Plum-Audio)**, which replaces the Snapcast + custom-control-layer core with **sendspin** for greater spec compliance. New development happens there; this repo is kept for reference only.
+
 > **Purpose**: Project memory for Claude Code. Defines rules, workflows, and preferences.
 
 ## Project Overview
