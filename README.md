@@ -1,5 +1,15 @@
 # Plum-Snapcast
 
+> ## ⚠️ This project is archived
+>
+> **Plum-Snapcast is no longer maintained.** It has been superseded by our new project, **[Plum-Audio](https://github.com/AnotherMike-exe/Plum-Audio)**.
+>
+> Plum-Audio replaces this project's core — Snapcast paired with a custom control layer — with **sendspin**, which delivers greater spec compliance and a cleaner foundation for multi-room audio.
+>
+> This repository remains available for reference only. **New development, issues, and contributions should go to [Plum-Audio](https://github.com/AnotherMike-exe/Plum-Audio).**
+
+---
+
 A comprehensive multi-room audio streaming solution combining Snapcast with a modern React frontend. Supports AirPlay, Bluetooth (A2DP), Spotify Connect, and DLNA/UPnP.
 
 ## Features
